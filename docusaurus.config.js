@@ -73,6 +73,10 @@ const config = {
             title: 'Community',
             items: [
               {
+                label: 'Roblox Group',
+                href: 'https://www.roblox.com/communities/8284465/Golden-Glades-Middle#!/about',
+              }, 
+              {
                 label: 'Instagram',
                 href: 'https://www.instagram.com/goldengladesms',
               },
