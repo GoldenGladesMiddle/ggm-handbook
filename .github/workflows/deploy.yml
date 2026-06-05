@@ -17,9 +17,12 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 20
-      - run: npm install
-      - run: npm run build
-      # ... rest of your file
+      - name: Install and Build
+        working-directory: ./golden-glades-handbook
+        run: |
+          npm install
+          npm run build
+          
   deploy:
     needs: build
     runs-on: ubuntu-latest
