@@ -68,7 +68,29 @@ Administrators must use these tools responsibly to maintain order.
 * `:glow [username]` – Highlight player (used by Security and School Administrators during passing periods).
 * `:playmusic [ID] [true/false] / :stopmusic` – Used during passing periods, lunch, and breaks. At the end of the command, type true or false for the loop setting. (Set to true by default.)
 
-## VI. Pro-Tips for Hosts
+## VI. Audio IDs
+
+### Operations
+* **Pledge**: 131174626105110
+* **National Anthem**: 1842367678
+* **Bell Tone**: 100296256341747
+* **Tardy Sweep**: 86516322906249
+
+### Music
+* **Till the edge of day**: 84554618646304
+* **Nexus After Dark**: 103219809950608
+* **Mirage**: 74035571120443
+* **Scandalous**: 135245851736095
+* **Shadows in My Room**: 86720814726258
+* **Numb to the Bone**: 79998088054112
+* **Vibe Check Song**: 135439211857576
+* **Cracked Horizon**: 90119790164186
+* **Letting the Light In**: 112778317811045
+* **Phatom Pulse**: 110827402192054
+* **Walking By Faith**: 118880062665706
+* **Better Days Ahead**: 93786969532784
+
+## VII. Pro-Tips for Hosts
 
 * **Encourage Engagement**
 * **Conflict Resolution**: If a student is disruptive, ask a Hall Monitor to intervene before escalating to a kick or ban.
