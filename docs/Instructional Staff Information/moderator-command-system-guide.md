@@ -15,26 +15,19 @@ Instructional Staff members (Substitute Teachers, Core Teachers, and Elective Te
 
 As a teacher, you have access to two specialized commands designed to manage student movement and monitor classroom behavior:
 
-* **`:pass [username] [name of pass]`** – Officially issues a temporary digital hall pass to a student, allowing them to legally navigate the campus outside of the classroom.
 * **`:viewtools [username]`** – Allows the instructor to see what tools a student has in their inventory. Use this to ensure students do not have unauthorized items out during class.
 
-### Pass Categories
+### Pass Giver Usage
 
-When using the `:pass` command, the `[name of pass]` must exactly match one of the three authorized categories:
+The Pass Giver tool is the official method for issuing movement permissions to students. When utilizing the tool, you must select one of the three categories:
 
 * **Late** – Issued to students who arrive to your classroom after the session has officially started.
 * **Bathroom** – Issued to students who request permission to use the restroom facilities during class.
 * **Nurse** – Issued to students who need to leave your classroom to visit the clinic.
 
-Examples:
-* `/e :pass lilman110200 Bathroom`
-* `/e :viewtools lilman110200`
-
 ### Hidden Execution Rules
 
 To maintain professional presentation and prevent the game chat from becoming cluttered with code, all commands must be hidden from the public chat log.
-
-**The /e Prefix:** You must always type `/e` before running your commands if you are typing them directly into the public chat box (e.g., `/e :viewtools [username]`). This processes the command silently so regular players cannot see it.
 
 **The Console GUI:** Alternatively, if available, you can enter commands prefix-free by typing them directly into your built-in command bar or panel interface, which naturally keeps your inputs completely invisible to students.
 
