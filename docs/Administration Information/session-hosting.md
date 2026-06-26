@@ -64,7 +64,6 @@ Administrators must use these tools responsibly to maintain order.
 * `:sm [message]` – Important school-wide intercom alerts.
 * `:info [username]` – Verify user account age and membership type.
 * `:ff [username]` – Provide ForceField for protection or spawn management.
-* `:pass [username] [type]` – Issue a pass (Late, Bathroom, Nurse).
 * `:glow [username]` – Highlight player (used by Security and School Administrators during passing periods).
 * `:playmusic [ID] [true/false] / :stopmusic` – Used during passing periods, lunch, and breaks. At the end of the command, type true or false for the loop setting. (Set to true by default.)
 
