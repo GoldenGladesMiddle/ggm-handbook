@@ -48,5 +48,5 @@ description: Detailed roles, responsibilities, and command permissions for Golde
 
 ### Director
 
-* Staff members responsible for the ultimate oversight of Golden Glades Middle School, including establishing policies, overseeing investigations, determining final promotion and demotion actions, and managing the leadership team.
+* Staff members responsible for the oversight of Golden Glades Middle School, including establishing policies, overseeing investigations, determining final promotion and demotion actions, and managing the leadership team.
 * This rank is not attainable through standard promotions.
