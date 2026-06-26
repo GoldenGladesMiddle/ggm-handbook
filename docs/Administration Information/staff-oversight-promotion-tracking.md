@@ -17,7 +17,7 @@ School Administrators must actively observe and evaluate the performance of lowe
 
 ### Recommending Promotions & Bot Ranking
 
-Because School Administrator is the highest rank attainable through standard promotions, administrators do not make manual ranking decisions on their own. While School Administrators are equipped with the technical authority to change a staff member's rank via the Discord bot, they are strictly prohibited from doing so without prior authorization:
+Because School Administrator is the highest rank attainable through standard promotions, administrators do not make manual ranking decisions on their own. While School Administrators are equipped with the authority to change a staff member's rank via the Discord bot, they are strictly prohibited from doing so without prior authorization:
 
 * **Documenting Performance:** Before seeking advancement for a staff member, carefully evaluate the Support Staff or Instructional Staff member. Note specific examples of how they exceeded expectations inside or outside of a session.
 * **Reviewing Command Integrity:** Ensure the staff member being recognized has used their tools responsibly—such as teachers correctly formatting their commands with the required hidden execution rules.
