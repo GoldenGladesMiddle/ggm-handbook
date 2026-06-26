@@ -73,9 +73,9 @@ While in-game, it is mandatory for all staff members to wear an official Golden 
 Substitute Teachers, Core Teachers, and Elective Teachers have access to moderator commands.
 School Administrators, Vice Directors, and Directors have access to admin commands.
 
-**Hidden Commands:** All in-game commands must be hidden. To execute a command privately using the chat, open the chat box and type /e before entering your command text.
+**Console Access:** All in-game commands must be hidden. To execute a command, press the ' key or click the console button in the top bar to open the interface.
 
-**Console Access:** To open the console GUI at the top of the screen, press the  ' key. Unlike the chat box, commands entered directly into the console do not require a prefix.
+**Pass Giver:** The Pass Giver is a tool restricted for staff members. To issue a pass, locate the player in the list by scrolling or using the search bar. Once the user is selected, choose the appropriate pass type—Bathroom, Nurse, or Late—to finalize the action.
 
 **Student Discipline:** Always use a minimum of 2 warnings before considering further disciplinary actions against disruptive students or trollers. Punishments must remain fair, consistent, and unbiased.
 
@@ -96,5 +96,3 @@ School Administrators, Vice Directors, and Directors have access to admin comman
 **Promotions & Demotions:** Staff may be promoted based on high activity, positive community engagement, and demonstrated leadership. Conversely, staff may be demoted for sustained inactivity, misconduct, or abuse of powers. All final decisions regarding ranking rest with the school’s leadership team.
 
 **Agreement:** By becoming a staff member at Golden Glades, you explicitly agree to follow these guidelines. Failure to comply will result in disciplinary actions up to termination and blacklisting.
-
-Written by: Mr. Kel Jordan | Director, Golden Glades Middle School
