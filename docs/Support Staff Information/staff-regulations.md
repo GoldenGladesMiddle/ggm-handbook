@@ -31,7 +31,7 @@ While in-game, it is mandatory for all staff members to wear an official Golden 
     * Swimwear, clothing with offensive text, or revealing clothing.
     * Oversized/Giant Back Accessories - Clips through walls and blocks view.
     * Particle Emitters - Causes FPS to drop for low-end devices.
-    * Flashy, Neon, Glowing items - Distracting in a classroom setting and can cause visual lag.
+    * Flashy, Neon, Glowing items (With the exception of the glow command used by Security and Administration.) - Distracting in a classroom setting and can cause visual lag.
 
 ### Conduct & Professionalism Guidelines
 
