@@ -92,5 +92,4 @@ Administrators must use these tools responsibly to maintain order.
 ## VII. Pro-Tips for Hosts
 
 * **Encourage Engagement**
-* **Conflict Resolution**: If a student is disruptive, ask a Hall Monitor to intervene before escalating to a kick or ban.
 * **Visual Check**: During transitions, use the `:glow` command on students who seem lost to help them find their way, and use it on yourself to remain visible to staff.
