@@ -7,7 +7,7 @@ description: Detailed roles, responsibilities, and command permissions for Golde
 
 # Rank Descriptions Guide
 
-### Security, Office Secretary, Nurse, Guidance Counselor, and Teaching Aides
+### School Security, Office Secretary, Nurse, Guidance Counselor, and Teaching Aides
 
 * Staff members responsible for supporting daily campus operations.
 * Responsibilities include maintaining safety, managing their respective stations, assisting primary educators, and addressing student needs.
