@@ -19,7 +19,7 @@ const config = {
   },
 
   url: 'https://staffdocs.goldengladesms.org',
-  baseUrl: '/ggm-handbook/',
+  baseUrl: '/',
   organizationName: 'GoldenGladesMiddle', // Usually your GitHub org/user name.
   projectName: 'ggm-handbook', // Usually your repo name.
   trailingSlash: false,
