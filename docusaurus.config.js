@@ -18,7 +18,7 @@ const config = {
     v4: true, // Improve compatibility with the upcoming Docusaurus v4
   },
 
-  url: 'https://goldengladesmiddle.github.io',
+  url: 'https://staffdocs.goldengladesms.org',
   baseUrl: '/ggm-handbook/',
   organizationName: 'GoldenGladesMiddle', // Usually your GitHub org/user name.
   projectName: 'ggm-handbook', // Usually your repo name.
