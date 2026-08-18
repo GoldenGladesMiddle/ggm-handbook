@@ -18,7 +18,7 @@ While in-game, it is mandatory for all staff members to wear an official Golden 
 
 **Rank-Specific Uniform Requirements:**
 * **General Guidelines:** Staff members are permitted to wear anything they like with the exception of subject-specific uniforms that are not theirs, management uniforms if they do not hold the rank, badges belonging to other ranks, management badges that are not theirs, and rank-specific uniforms if they do not have that rank.
-* **Security, Office Secretary, Nurse, Guidance Counselor, and Teaching Aides**
+* **Security, Office Associate, Nurse, Guidance Counselor, and Teaching Aides**
     * **Allowed:** Official Golden Glades Hoodies / Hoodies with appropriate badge.
     * **Prohibited:** Any pants / Subject-specific or Management uniforms / Badges belonging to other ranks / Anything inappropriate.
 * **Substitute Teacher, Core Teacher, and Elective Teacher**
