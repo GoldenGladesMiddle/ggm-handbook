@@ -11,7 +11,7 @@ description: Guidelines for School Administrators on monitoring lower staff tier
 
 School Administrators must actively observe and evaluate the performance of lower staff tiers both inside and outside of official school sessions. When looking for exemplary performance to recognize, use the following guidelines:
 
-* **Support Staff Evaluation:** Observe how effectively Security, Office Secretaries, Nurses, Guidance Counselors, and Teaching Aides manage their designated stations and maintain daily campus operations. Look for consistent activity, alertness, and a helpful attitude toward students.
+* **Support Staff Evaluation:** Observe how effectively Security, Office Associates, Nurses, Guidance Counselors, and Teaching Aides manage their designated stations and maintain daily campus operations. Look for consistent activity, alertness, and a helpful attitude toward students.
 * **Instructional Staff Evaluation:** Monitor Substitute Teachers, Core Teachers, and Elective Teachers during their lessons. Pay attention to how well they deliver their subject curriculums (Science, Cooking, English, Drama, Gym, History, and Art), their ability to maintain classroom order, and their adherence to hidden command execution rules.
 * **Professional Demeanor:** Actively look for staff members who consistently display mature behavior, utilize advanced grammar, and handle student disruptions or trollers with patience and professionalism.
 
