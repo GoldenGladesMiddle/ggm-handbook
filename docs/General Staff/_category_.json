@@ -1,0 +1,15 @@
+{
+  "type": "category",
+  "label": "General Staff Information",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Core policies, code of conduct, rank structures, and activity expectations for all team members."
+  },
+  "items": [
+    "general/staff-regulations",
+    "general/rank-descriptions",
+    "general/shift-and-loa-policy",
+    "general/discord-and-portal-guide"
+  ]
+}
