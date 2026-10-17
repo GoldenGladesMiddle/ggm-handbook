@@ -7,9 +7,8 @@ slug: /
 
 # 👋 Welcome to Golden Glades Middle School!
 
-:::tip Notice Inaccurate Information?
+Notice Inaccurate Information?
 If you spot any outdated or incorrect details on this site, please reach out to **d4rk_kel** on Discord.
-:::
 
 ## 🏫 About Our School
 
@@ -27,10 +26,10 @@ To explore, choose a section from the sidebar or click one of the quick links be
 
 | Section | Description |
 | :--- | :--- |
-| ** Support Staff Information** | Protocols and guides for support personnel |
-| ** Instructional Staff Information** | Resources and class guidelines for teachers & educators |
-| ** Administration Information** | Management procedures and leadership documentation |
-| ** Disciplinary Information** | Rules, moderation standards, and student conduct codes |
+| **Support Staff Information** | Protocols and guides for support personnel |
+| **Instructional Staff Information** | Resources and class guidelines for teachers & educators |
+| **Administration Information** | Management procedures and leadership documentation |
+| **Disciplinary Information** | Rules, moderation standards, and student conduct codes |
 
 ---
 
