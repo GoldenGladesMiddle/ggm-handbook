@@ -7,8 +7,11 @@ slug: /
 
 # 👋 Welcome to Golden Glades Middle School!
 
-Notice Inaccurate Information?
-If you spot any outdated or incorrect details on this site, please reach out to **d4rk_kel** on Discord.
+:::danger[ERRORS]
+
+Notice any inaccurate information on this website? Contact d4rk_kel on Discord.
+
+:::
 
 ## 🏫 About Our School
 
