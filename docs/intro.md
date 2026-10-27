@@ -17,7 +17,7 @@ Notice any inaccurate information on this website? Contact d4rk_kel on Discord.
 
 **Golden Glades Middle School** is an immersive educational roleplay experience on the Roblox platform. We are dedicated to providing a realistic, safe, and engaging environment for all players. 
 
-Our passionate team works hard to maintain an active campus environment across all departments—including core classrooms, administrative suites, and extracurricular activities. Golden Glades Middle is proudly managed by our dedicated School Directors, Administrators, and Faculty.
+Our passionate team works hard to maintain an active campus environment across all departments—including core classrooms, administrative suites, and extracurricular activities. This website is managed by our dedicated School Directors and Administrators.
 
 ---
 
