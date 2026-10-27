@@ -29,13 +29,14 @@ To explore, choose a section from the sidebar or click one of the quick links be
 
 | Section | Description |
 | :--- | :--- |
-| **Support Staff Information** | Protocols and guides for support personnel |
-| **Instructional Staff Information** | Resources and class guidelines for teachers & educators |
-| **Administration Information** | Management procedures and leadership documentation |
-| **Disciplinary Information** | Rules, moderation standards, and student conduct codes |
+| **1. General Staff Governance** | Foundational policies, onboarding steps, code of conduct, rank hierarchy, and communication channels. |
+| **2. Operational & Technical Guidelines** | Bell schedules, shift & LOA policies, web portal operations, and administrative tool workflows. |
+| **3. Instructional & Support Staff Operations** | Classroom management standards, lesson plans, student guidance, and staff promotion guides. |
+| **4. Security & Safety Protocols** | Campus safety, emergency procedures, crisis escalation, and student disciplinary principles. |
+| **5. Leadership & Administrative Operations** | Session hosting, moderation commands, performance oversight, and staff accountability. |
 
 ---
 
 ### 🌐 Quick Links
-* 🎮 **Roblox Group:** [Golden Glades Middle School Group](https://www.roblox.com/groups/8284465)
-* 💬 **Community Discord:** Join our server for real-time announcements and support.
+- 🎮 **Roblox Group:** [Golden Glades Middle School Group](https://www.roblox.com/groups/8284465)
+- 💬 **Community Discord:** Join our server for real-time announcements and support.
