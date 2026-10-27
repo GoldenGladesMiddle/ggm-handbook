@@ -1,8 +1,8 @@
 {
-  "label": "Administration Information",
+  "label": "Security & Safety Protocols",
   "position": 4,
   "link": {
     "type": "generated-index",
-    "description": "All information relevant to School Administration and higher."
+    "description": "Establishes safety standards for campus emergencies, crisis communication workflows, and student disciplinary actions to ensure a secure environment."
   }
 }
